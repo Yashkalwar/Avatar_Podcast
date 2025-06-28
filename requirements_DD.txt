@@ -1,0 +1,7 @@
+unstructured[pdf]==0.12.6
+pdfminer.six==20221105
+openai >= 1.93.0
+tiktoken
+rapidfuzz
+python-dotenv
+pandas
